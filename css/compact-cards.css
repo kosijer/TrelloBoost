@@ -1,0 +1,17 @@
+.list-card {
+    max-width: 100%;
+    margin-bottom: 2px;
+    border-bottom: 1px solid #fafafa;
+}
+
+.list-card-title {
+    margin-bottom: 1px !important;
+}
+
+.list-cards {
+	margin: 0;
+	padding: 0;
+}
+.list {
+	border-radius: 0;
+}

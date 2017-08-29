@@ -1,0 +1,36 @@
+.list-card {
+  overflow: hidden;
+}
+
+.list-card-labels {
+  display: block;
+  margin: 0 !important;
+}
+
+.list-card-labels .card-label {
+  display: inline !important;
+  height: inherit !important;
+  width: auto !important;
+  padding: 0 0.5em!important;
+  margin-right: 2px;
+  text-align: center;
+  font-family: arial !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.6px !important;
+  text-shadow: none !important;
+}
+
+body.tpro-card-labels-size-small .list-card-labels .card-label {
+  font-size: 8px;
+  line-height: 13px;
+}
+
+body.tpro-card-labels-size-medium .list-card-labels .card-label {
+  font-size: 10px;
+  line-height: 14px;
+}
+
+body.tpro-card-labels-size-large .list-card-labels .card-label {
+  font-size: 12px;
+  line-height: 15px;
+}
