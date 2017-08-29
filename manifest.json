@@ -21,7 +21,9 @@
 	},
 
 	"permissions": [
-		"*://trello.com/*", "tabs", "storage"
+		"*://trello.com/*",
+		"tabs",
+		"storage"
 	],
 
 	"web_accessible_resources": [
